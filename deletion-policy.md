@@ -3,7 +3,7 @@
 Last updated: 2026-03-20
 
 Operator: **HikawaIOT**
-Contact: **your-email@example.com**
+Contact: **kage2011vita2013@gmail.com**
 
 ## How to Request Deletion
 To request deletion of your data, please email us with:
