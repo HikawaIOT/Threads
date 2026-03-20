@@ -5,15 +5,10 @@
       <stop offset="100%" stop-color="#2563eb"/>
     </linearGradient>
   </defs>
-
   <rect x="0" y="0" width="1024" height="1024" rx="220" fill="url(#g)"/>
-
-  <!-- Symbol (upper area) -->
-  <circle cx="512" cy="390" r="230" fill="none" stroke="#ffffff" stroke-width="52" opacity="0.95"/>
+  <circle cx="512" cy="390" r="230" fill="none" stroke="#ffffff" stroke-width="52"/>
   <path d="M392 390h240" stroke="#ffffff" stroke-width="52" stroke-linecap="round"/>
   <path d="M512 270v240" stroke="#ffffff" stroke-width="52" stroke-linecap="round"/>
-
-  <!-- Brand texts (extra gap from symbol) -->
-  <text x="512" y="820" font-family="Arial, Helvetica, sans-serif" font-size="150" font-weight="700" text-anchor="middle" fill="#ffffff" opacity="0.98">IOT</text>
-  <text x="512" y="910" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="600" text-anchor="middle" fill="#ffffff" opacity="0.92">Hikawa</text>
+  <text x="512" y="760" font-family="Arial, Helvetica, sans-serif" font-size="150" font-weight="700" text-anchor="middle" fill="#ffffff">IOT</text>
+  <text x="512" y="900" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="600" text-anchor="middle" fill="#ffffff">Hikawa</text>
 </svg>
