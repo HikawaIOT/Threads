@@ -8,12 +8,12 @@
 
   <rect x="0" y="0" width="1024" height="1024" rx="220" fill="url(#g)"/>
 
-  <!-- Symbol (kept upper area so text is not hidden) -->
-  <circle cx="512" cy="420" r="240" fill="none" stroke="#ffffff" stroke-width="52" opacity="0.95"/>
-  <path d="M386 420h252" stroke="#ffffff" stroke-width="52" stroke-linecap="round"/>
-  <path d="M512 294v252" stroke="#ffffff" stroke-width="52" stroke-linecap="round"/>
+  <!-- Symbol (upper area) -->
+  <circle cx="512" cy="390" r="230" fill="none" stroke="#ffffff" stroke-width="52" opacity="0.95"/>
+  <path d="M392 390h240" stroke="#ffffff" stroke-width="52" stroke-linecap="round"/>
+  <path d="M512 270v240" stroke="#ffffff" stroke-width="52" stroke-linecap="round"/>
 
-  <!-- Brand texts -->
-  <text x="512" y="790" font-family="Arial, Helvetica, sans-serif" font-size="150" font-weight="700" text-anchor="middle" fill="#ffffff" opacity="0.98">IOT</text>
-  <text x="512" y="885" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="600" text-anchor="middle" fill="#ffffff" opacity="0.92">Hikawa</text>
+  <!-- Brand texts (extra gap from symbol) -->
+  <text x="512" y="820" font-family="Arial, Helvetica, sans-serif" font-size="150" font-weight="700" text-anchor="middle" fill="#ffffff" opacity="0.98">IOT</text>
+  <text x="512" y="910" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="600" text-anchor="middle" fill="#ffffff" opacity="0.92">Hikawa</text>
 </svg>
